@@ -11,8 +11,5 @@ TimelineにAnimation Trackを作成して、Cubeに関連付け。RECボタン�
 # 必要要件
 - Unity 2019.3.15f1 or later
 
-# ライセンス
-[MIT license](https://en.wikipedia.org/wiki/MIT_License).  
-まぁ、ライセンスとか言い出すようなもんか？  
-ってレベルの簡単サンプルだけどw  
-一応、書いときます。
+# License
+[Unlicense](https://unlicense.org/)
